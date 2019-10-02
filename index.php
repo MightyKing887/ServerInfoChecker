@@ -10,6 +10,7 @@ Yes, I know this is just reading some basic text from a json file hosted on the 
 	<link rel="icon" href="https://www.spigotmc.org/data/avatars/l/73/73076.jpg">
 </head>
 <body>
+	<h1>Hoi</h1>
      <form method="post">
         <input type="text" name="server" placeholder="server" >
         <input type="submit" name="submit" value="Request information">
